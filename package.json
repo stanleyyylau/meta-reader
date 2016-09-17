@@ -1,0 +1,23 @@
+{
+  "name": "meta-reader",
+  "version": "1.0.0",
+  "description": "## Yet another FCC project",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleyyylau/meta-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleyyylau/meta-reader/issues"
+  },
+  "homepage": "https://github.com/stanleyyylau/meta-reader#readme"
+}
