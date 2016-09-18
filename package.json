@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/stanleyyylau/meta-reader/issues"
   },
-  "homepage": "https://github.com/stanleyyylau/meta-reader#readme"
+  "homepage": "https://github.com/stanleyyylau/meta-reader#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
 }
