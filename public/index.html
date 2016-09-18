@@ -11,8 +11,11 @@
     <div class="container">
       <h1>Meta data reader</h1>
       <form enctype="multipart/form-data", action="/upload" method="post">
-        <input type="file" name="photho" value="">
-        <button type="submit" name="button">Upload Now</button>
+        <div class="form-group">
+          <input type="file" name="file" value="">
+          <p class="help-block">Upload a file to view its size and get its url</p>
+        </div>
+        <button class="btn btn-primary" type="submit" name="button">Upload Now</button>
       </form>
 
 
