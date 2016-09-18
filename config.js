@@ -2,8 +2,8 @@
 
 
 var config = {
-  host:'http://localhost:5000/',
-  imgUrl: 'http://localhost:5000/uploads/'
+  host:'https://st-metaviewer.herokuapp.com',
+  imgUrl: 'https://st-metaviewer.herokuapp.com/uploads/'
 }
 
 module.exports = config;
